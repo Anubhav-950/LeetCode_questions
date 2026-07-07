@@ -8,6 +8,7 @@ All the leetcode solved questions.
 | ------- |
 | [0001-two-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -35,4 +36,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
