@@ -31,4 +31,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
