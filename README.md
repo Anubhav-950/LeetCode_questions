@@ -11,6 +11,7 @@ All the leetcode solved questions.
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1288-remove-covered-intervals) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +48,12 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
