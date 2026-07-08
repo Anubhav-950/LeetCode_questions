@@ -9,6 +9,7 @@ All the leetcode solved questions.
 | [0001-two-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1288-remove-covered-intervals) |
@@ -30,6 +31,7 @@ All the leetcode solved questions.
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ All the leetcode solved questions.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
 |  |
