@@ -7,6 +7,7 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -27,6 +28,7 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
 ## String
 |  |
@@ -56,4 +58,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
