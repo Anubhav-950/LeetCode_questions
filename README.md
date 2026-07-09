@@ -26,6 +26,7 @@ All the leetcode solved questions.
 | ------- |
 | [0001-two-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +78,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
