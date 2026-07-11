@@ -11,6 +11,7 @@ All the leetcode solved questions.
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -61,6 +62,7 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
 |  |
@@ -73,6 +75,7 @@ All the leetcode solved questions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Greedy
 |  |
@@ -90,6 +93,7 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0643-maximum-average-subarray-i) |
