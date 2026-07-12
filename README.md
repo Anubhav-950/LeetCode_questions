@@ -9,6 +9,7 @@ All the leetcode solved questions.
 | [0001-two-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -31,6 +32,7 @@ All the leetcode solved questions.
 | ------- |
 | [0001-two-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
