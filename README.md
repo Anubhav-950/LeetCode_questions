@@ -11,6 +11,7 @@ All the leetcode solved questions.
 | [0015-3sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,4 +110,8 @@ All the leetcode solved questions.
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
