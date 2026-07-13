@@ -1,5 +1,5 @@
 class Solution {
-    public int search(int[] nums, int target) {
+    public int search(int[] nums, int tar) {
         int n=nums.length;
         int l=0, r=n-1;
 
@@ -48,26 +48,38 @@ class Solution {
 
          while(l<=r)
         {
-            int m=(l+r)/2;
+            int m=l+(r-l)/2;
 
-            if(nums[m] == target) return m;
+            if(nums[m] == tar) return m;
 
-            if(nums[m] >= nums[l])
+            if(nums[m] > nums[r])
             {
-                if(nums[l] <= target && nums[m] > target)
-                {
-                    r=m-1;
-                }
-                
+                if(nums[m]>tar && nums[l]<=tar)
+                r=m-1;
                 else l=m+1;
             }
-
-            else{
-                if(target > nums[m] && target <= nums[r] )
+            else
+            {
+                if(nums[m]<tar && nums[r]>=tar)
                 l=m+1;
-
                 else r=m-1;
             }
+            // if(nums[m] >= nums[l])
+            // {
+            //     if(nums[l] <= target && nums[m] > target)
+            //     {
+            //         r=m-1;
+            //     }
+                
+            //     else l=m+1;
+            // }
+
+            // else{
+            //     if(target > nums[m] && target <= nums[r] )
+            //     l=m+1;
+
+            //     else r=m-1;
+            // }
         }
           
         return -1;
