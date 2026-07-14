@@ -108,6 +108,7 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,4 +130,12 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0046-permutations) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
