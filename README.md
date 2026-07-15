@@ -62,6 +62,7 @@ All the leetcode solved questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -108,6 +109,7 @@ All the leetcode solved questions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0232-implement-queue-using-stacks) |
