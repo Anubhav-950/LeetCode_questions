@@ -74,6 +74,7 @@ All the leetcode solved questions.
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -138,4 +139,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
