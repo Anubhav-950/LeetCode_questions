@@ -22,6 +22,7 @@ All the leetcode solved questions.
 | [0219-contains-duplicate-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -117,11 +118,13 @@ All the leetcode solved questions.
 | [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
