@@ -45,6 +45,7 @@ All the leetcode solved questions.
 | ------- |
 | [0001-two-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@ All the leetcode solved questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -81,6 +83,7 @@ All the leetcode solved questions.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0012-integer-to-roman) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
