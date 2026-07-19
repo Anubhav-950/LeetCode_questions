@@ -15,6 +15,7 @@ All the leetcode solved questions.
 | [0046-permutations](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +83,7 @@ All the leetcode solved questions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Math
@@ -127,6 +129,7 @@ All the leetcode solved questions.
 | [0020-valid-parentheses](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0232-implement-queue-using-stacks) |
@@ -140,6 +143,7 @@ All the leetcode solved questions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0503-next-greater-element-ii) |
@@ -188,4 +192,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
