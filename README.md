@@ -18,6 +18,7 @@ All the leetcode solved questions.
 | [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@ All the leetcode solved questions.
 | [0033-search-in-rotated-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0540-single-element-in-a-sorted-array) |
