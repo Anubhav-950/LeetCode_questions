@@ -30,6 +30,7 @@ All the leetcode solved questions.
 | [0540-single-element-in-a-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1288-remove-covered-intervals) |
@@ -105,6 +106,7 @@ All the leetcode solved questions.
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
