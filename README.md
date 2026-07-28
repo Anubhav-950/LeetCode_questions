@@ -215,6 +215,7 @@ All the leetcode solved questions.
 | [0110-balanced-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,6 +224,7 @@ All the leetcode solved questions.
 | [0110-balanced-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@ All the leetcode solved questions.
 | [0110-balanced-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
