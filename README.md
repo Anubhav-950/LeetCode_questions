@@ -42,6 +42,7 @@ All the leetcode solved questions.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ All the leetcode solved questions.
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ All the leetcode solved questions.
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
