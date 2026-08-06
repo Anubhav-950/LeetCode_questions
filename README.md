@@ -37,6 +37,7 @@ All the leetcode solved questions.
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +138,7 @@ All the leetcode solved questions.
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +188,7 @@ All the leetcode solved questions.
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
