@@ -107,6 +107,7 @@ All the leetcode solved questions.
 | [0012-integer-to-roman](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0012-integer-to-roman) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -269,4 +270,8 @@ All the leetcode solved questions.
 | [0102-binary-tree-level-order-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
