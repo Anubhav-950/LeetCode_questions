@@ -77,6 +77,7 @@ All the leetcode solved questions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ All the leetcode solved questions.
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@ All the leetcode solved questions.
 | [1652-defuse-the-bomb](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
