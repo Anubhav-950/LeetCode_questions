@@ -10,13 +10,12 @@ class Solution {
         for(int i=0;i<n; i++)
         {
             fq.put(nums[i], fq.getOrDefault(nums[i], 0)+1);
-            if(fq.get(nums[i]) == 1)
-            k--;
-            while(k<0)
+            
+            while(fq.size()>k)
             {
                fq.put(nums[st], fq.getOrDefault(nums[st],0)-1);
                if(fq.get(nums[st])==0)
-               k++;
+               fq.remove(nums[st]);
                st++; 
             }
             cnt+= i-st+1;
