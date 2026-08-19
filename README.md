@@ -128,6 +128,7 @@ All the leetcode solved questions.
 | [0162-find-peak-element](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0875-koko-eating-bananas) |
@@ -140,6 +141,7 @@ All the leetcode solved questions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Prefix Sum
 |  |
@@ -253,6 +255,7 @@ All the leetcode solved questions.
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -289,6 +292,7 @@ All the leetcode solved questions.
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0662-maximum-width-of-binary-tree) |
