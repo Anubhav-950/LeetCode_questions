@@ -100,6 +100,7 @@ All the leetcode solved questions.
 | [0012-integer-to-roman](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -221,6 +222,7 @@ All the leetcode solved questions.
 | [0155-min-stack](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -263,6 +265,7 @@ All the leetcode solved questions.
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -280,6 +283,7 @@ All the leetcode solved questions.
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -302,6 +306,7 @@ All the leetcode solved questions.
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -315,6 +320,7 @@ All the leetcode solved questions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
