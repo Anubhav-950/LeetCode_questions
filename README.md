@@ -47,6 +47,7 @@ All the leetcode solved questions.
 | [2104-sum-of-subarray-ranges](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -341,4 +342,8 @@ All the leetcode solved questions.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
