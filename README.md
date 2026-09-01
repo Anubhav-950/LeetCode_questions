@@ -117,6 +117,7 @@ All the leetcode solved questions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +288,7 @@ All the leetcode solved questions.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -310,6 +312,7 @@ All the leetcode solved questions.
 | [0662-maximum-width-of-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -343,6 +346,7 @@ All the leetcode solved questions.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -391,6 +395,7 @@ All the leetcode solved questions.
 | [0700-search-in-a-binary-search-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -399,4 +404,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0173-binary-search-tree-iterator) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
