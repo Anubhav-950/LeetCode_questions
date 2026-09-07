@@ -45,6 +45,7 @@ All the leetcode solved questions.
 | [1310-xor-queries-of-a-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -149,6 +150,7 @@ All the leetcode solved questions.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Counting
 |  |
 | ------- |
