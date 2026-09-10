@@ -303,6 +303,7 @@ All the leetcode solved questions.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ All the leetcode solved questions.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -361,6 +363,7 @@ All the leetcode solved questions.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
