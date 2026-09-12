@@ -53,6 +53,7 @@ All the leetcode solved questions.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -179,6 +180,7 @@ All the leetcode solved questions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0402-remove-k-digits) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
 |  |
 | ------- |
