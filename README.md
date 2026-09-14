@@ -119,6 +119,7 @@ All the leetcode solved questions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -131,6 +132,7 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -431,4 +433,8 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
