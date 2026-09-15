@@ -13,6 +13,7 @@ All the leetcode solved questions.
 | [0041-first-missing-positive](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
@@ -120,6 +121,7 @@ All the leetcode solved questions.
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -272,6 +274,7 @@ All the leetcode solved questions.
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
