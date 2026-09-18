@@ -32,6 +32,7 @@ All the leetcode solved questions.
 | [0219-contains-duplicate-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -132,6 +133,7 @@ All the leetcode solved questions.
 | [0152-maximum-product-subarray](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
@@ -445,4 +447,12 @@ All the leetcode solved questions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
