@@ -117,6 +117,7 @@ All the leetcode solved questions.
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2801-count-stepping-numbers-in-range) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -137,6 +138,7 @@ All the leetcode solved questions.
 | [0416-partition-equal-subset-sum](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2801-count-stepping-numbers-in-range) |
 ## Math
 |  |
 | ------- |
