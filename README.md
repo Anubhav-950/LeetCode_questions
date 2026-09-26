@@ -53,6 +53,7 @@ All the leetcode solved questions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1652-defuse-the-bomb) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -93,6 +94,7 @@ All the leetcode solved questions.
 | [0992-subarrays-with-k-different-integers](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -118,6 +120,7 @@ All the leetcode solved questions.
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Anubhav-950/LeetCode_questions/tree/master/2801-count-stepping-numbers-in-range) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anubhav-950/LeetCode_questions/tree/master/3498-reverse-degree-of-a-string) |
